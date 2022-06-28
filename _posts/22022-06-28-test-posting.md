@@ -1,8 +1,10 @@
 ---
 layout: single
-title: "Test"
+title:  "Test"
 ---
 
-# Hello World!
+# Welcome
 
-첫 글 테스트
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
