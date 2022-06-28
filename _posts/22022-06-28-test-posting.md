@@ -1,3 +1,4 @@
+---
 defaults:
   # _posts
   - scope:
@@ -10,5 +11,6 @@ defaults:
       comments: true
       share: true
       related: true
+---
 
 # Hello World!
