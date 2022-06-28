@@ -6,6 +6,7 @@ defaults:
       type: posts
     values:
       layout: single
+      title: "test"
       author_profile: true
       read_time: true
       comments: true
